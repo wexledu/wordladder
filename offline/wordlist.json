@@ -1,0 +1,12 @@
+{
+  "dictionary": {
+    "cold": "low temperature",
+    "cord": "a long thin flexible string or rope",
+    "card": "a piece of thick, stiff paper",
+    "ward": "a division in a hospital",
+    "warm": "having moderate heat"
+  },
+  "levels": [
+    {"start": "cold", "target": "warm", "steps": 4}
+  ]
+}

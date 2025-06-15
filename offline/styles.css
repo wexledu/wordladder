@@ -1,0 +1,7 @@
+body{font-family:Arial, sans-serif;margin:20px;}
+header{display:flex;gap:1rem;align-items:center;margin-bottom:1rem;}
+#ladder{list-style:none;padding:0;}
+#ladder li{margin:0.25rem 0;cursor:pointer;}
+.hidden{display:none;}
+.high-contrast{background:black;color:white;}
+.high-contrast button{background:black;color:white;border:1px solid white;}
